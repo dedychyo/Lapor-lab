@@ -1,0 +1,1 @@
+<?php // Konfigurasi database ?>
